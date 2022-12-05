@@ -371,12 +371,7 @@ selfdrive/modeld/thneed/optimizer.cc
 selfdrive/modeld/thneed/include/*
 selfdrive/modeld/thneed/kernels/*.cl
 
-selfdrive/modeld/runners/snpemodel.cc
-selfdrive/modeld/runners/snpemodel.h
-selfdrive/modeld/runners/thneedmodel.cc
-selfdrive/modeld/runners/thneedmodel.h
-selfdrive/modeld/runners/runmodel.h
-selfdrive/modeld/runners/run.h
+selfdrive/modeld/runners/*
 
 selfdrive/monitoring/dmonitoringd.py
 selfdrive/monitoring/driver_monitor.py
